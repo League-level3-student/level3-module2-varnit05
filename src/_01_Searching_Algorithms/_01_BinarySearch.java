@@ -12,6 +12,7 @@ public class _01_BinarySearch {
 	
 	//1. Complete the steps in the binarySearch method.
 	//   We can assume array is already sorted
+	
 	public static int binarySearch(int[] array, int start, int end, int value) {
 		//2. if end is greater than or equal to start, then
 		//   do steps 3 - 6.
